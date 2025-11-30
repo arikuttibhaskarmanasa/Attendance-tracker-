@@ -1,7 +1,7 @@
-
+Attendance Tracker System
 ## Project info
 
-**URL**: https://lovable.dev/projects/81a17f65-7c8d-48c7-b334-4138f5d29fc2
+**URL**: https://attendacetrakersystem.lovable.app
 
 ## How can I edit this code?
 
@@ -9,7 +9,7 @@ There are several ways of editing your application.
 
 
 
-Simply visit the (https://lovable.dev/projects/81a17f65-7c8d-48c7-b334-4138f5d29fc2) and start prompting.
+Simply visit the (https://attendacetrakersystem.lovable.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 Follow these steps:
@@ -54,5 +54,5 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open (https://lovable.dev/projects/81a17f65-7c8d-48c7-b334-4138f5d29fc2) and click on Share -> Publish.
+Simply open (https://attendacetrakersystem.lovable.app) and click on Share -> Publish.
 
